@@ -1,3 +1,7 @@
+
+# day 1 notes on R, led by Han Tran
+
+
 ################ Introduction to R ###############
 
 # Testing some calculations
