@@ -1,5 +1,5 @@
 
-# day 1 notes on R, led by Han Tran
+some additonal changes which actually corrupt the file!!!
 
 
 ################ Introduction to R ###############
