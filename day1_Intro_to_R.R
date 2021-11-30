@@ -1,7 +1,3 @@
-
-some additonal changes which actually corrupt the file!!!
-
-
 ################ Introduction to R ###############
 
 # Testing some calculations
